@@ -31,6 +31,10 @@
 		{
 			"Name": "ADOSupport",
 			"Enabled": true
+		},
+		{
+			"Name": "RemoteSession",
+			"Enabled": true
 		}
 	]
 }
